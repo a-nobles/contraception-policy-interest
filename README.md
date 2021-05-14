@@ -25,7 +25,7 @@ Below is an overview of the steps of the analysis to support our [paper](https:/
 ## Results
 Searches for IUDs reached all time highs following the 2016 election. Searches were cumulatively 15% (95% CI: 10 to 20) higher than expected one year following the election, reflecting 10 to 21 million excesssearches.
 
-![Web searches for birth control following the election of Donald Trump. Each panel (left to right, respectively) shows searches for the focal search terms relative to all searches (per10 million) against the predicted counterfactual and the observed search volumes against the counterfactual's 95% prediction interval.](https://github.com/a-nobles/contraception-policy-interest/blob/master/figures/google_iud.pdf)
+![Web searches for birth control following the election of Donald Trump. Each panel (left to right, respectively) shows searches for the focal search terms relative to all searches (per10 million) against the predicted counterfactual and the observed search volumes against the counterfactual's 95% prediction interval.](https://github.com/a-nobles/contraception-policy-interest/blob/master/figures/google_iud.png)
 **Figure 1.** Web searches for birth control following the election of Donald Trump. Each panel (left to right, respectively) shows searches for the focal search terms relative to all searches (per10 million) against the predicted counterfactual and the observed search volumes against the counterfactual's 95% prediction interval. 
 
 &nbsp;
