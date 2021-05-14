@@ -25,14 +25,14 @@ Below is an overview of the steps of the analysis to support our [paper](https:/
 ## Results
 Searches for IUDs reached all time highs following the 2016 election. Searches were cumulatively 15% (95% CI: 10 to 20) higher than expected one year following the election, reflecting 10 to 21 million excesssearches.
 
-![Web searches for birth control following the election of Donald Trump. Each panel (left to right, respectively) shows searches for the focal search terms relative to all searches (per10 million) against the predicted counterfactual and the observed search volumes against the counterfactual's 95% prediction interval.](/Users/anobles/Projects/contraception_for_github/figures/google_iud.pdf)
+![Web searches for birth control following the election of Donald Trump. Each panel (left to right, respectively) shows searches for the focal search terms relative to all searches (per10 million) against the predicted counterfactual and the observed search volumes against the counterfactual's 95% prediction interval.](https://github.com/a-nobles/contraception-policy-interest/blob/master/figures/google_iud.pdf)
 **Figure 1.** Web searches for birth control following the election of Donald Trump. Each panel (left to right, respectively) shows searches for the focal search terms relative to all searches (per10 million) against the predicted counterfactual and the observed search volumes against the counterfactual's 95% prediction interval. 
 
 &nbsp;
 
 IUD searches were statistically significantly higher than state specific projected counterfactuals in all states, except NV (2%; 95% CI: −4 to 10]), ranging from 9% greater in in FL, IN, TN and WA to 24% inMO. Average increases were statistically indistinguishable across stateswon by Trump or Clinton (Welch t test=0.60, p=.548), with both red and blue states similarly searching more for IUDs.
 
-![Within-state percent changes in relative search volume (RSV) for intrauterine device (IUD) queries for the one year period following the 2016 US presidential election.](/Users/anobles/Projects/contraception_for_github/figures/state_difference_viz.png)
+![Within-state percent changes in relative search volume (RSV) for intrauterine device (IUD) queries for the one year period following the 2016 US presidential election.](https://github.com/a-nobles/contraception-policy-interest/blob/master/figures/state_difference_viz.png)
 **Figure 2.** Within-state percent changes in relative search volume (RSV) for intrauterine device (IUD) queries for the one year period following the 2016 US presidential election.
 
 &nbsp;
