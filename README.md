@@ -19,8 +19,8 @@ Below is an overview of the steps of the analysis to support our [paper](https:/
 
 1. We collected the fraction of Google searches emerging from the United States between January 2004 and October 2017 for the three most popular reversible contraceptive methods (i.e., birth control pills, intrauterine devices (IUDs), and condoms). 
 2. We compared monthly search volumes after the 2016 presidential election against expected search volumes derived from ARIMA forecasts to produce a counterfactual both nationally and by state.
-	1. [IUD\_ARIMA.R]()
-	2. [IUD\_State.R]()
+	1. [IUD\_ARIMA.R](https://github.com/a-nobles/contraception-policy-interest/blob/master/code/IUD_ARIMA.R)
+	2. [IUD\_State.R](https://github.com/a-nobles/contraception-policy-interest/blob/master/code/IUD_State.R)
 
 ## Results
 Searches for IUDs reached all time highs following the 2016 election. Searches were cumulatively 15% (95% CI: 10 to 20) higher than expected one year following the election, reflecting 10 to 21 million excesssearches.
